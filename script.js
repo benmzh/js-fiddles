@@ -38,3 +38,11 @@ function checkPairs() {
     }
   }
 }
+
+textField
+todos
+
+function addItem() {
+  var newItem = document.getElementById("score").value;
+  console.log(newItem);
+}
